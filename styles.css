@@ -14,7 +14,7 @@
     transition: all 0.2s linear;
 }
 html{
-    font-size:93%;
+    font-size:90%;
     overflow-x:hidden ;
     scroll-padding-top:6rem;
     scroll-behavior: smooth;
@@ -24,7 +24,7 @@ section{
     margin-top: 2rem;
 }
 .heading{
-    margin-bottom: 3rem;
+    margin-bottom: 2rem;
     font-size: 2.5rem;
     text-align: center;
     color:rgb(255, 184, 7);
@@ -74,7 +74,7 @@ header{
  header .navbar a{
     color: aliceblue;
     font-size: 2rem;
-    margin: 14px;
+    margin: 10px;
  }
  header .navbar a:hover{
     color: orange;
@@ -217,6 +217,7 @@ header{
 .home .content a.btn{
     border-radius: .5rem;
 }
+
 .home .content p{
     text-align: center;
     font-size: 2.4rem;
@@ -513,7 +514,7 @@ header{
      font-size: 80%;
     }
     header{
-        padding: 3rem;
+        padding: 2.5rem;
     }
  }
 
@@ -567,7 +568,7 @@ header{
  }
  @media (max-width:970px){
     .heading{
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
     #menu-bar{
         display: initial;
