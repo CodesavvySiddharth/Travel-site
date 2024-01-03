@@ -14,7 +14,7 @@
     transition: all 0.2s linear;
 }
 html{
-    font-size:90%;
+    font-size : 72%;
     overflow-x:hidden ;
     scroll-padding-top:6rem;
     scroll-behavior: smooth;
@@ -511,7 +511,7 @@ header{
 
 @media (max-width:1800px){
     html{
-     font-size: 80%;
+     font-size: 67%;
     }
     header{
         padding: 2.5rem;
@@ -520,12 +520,12 @@ header{
 
 @media (max-width:1400px){
    html{
-    font-size: 70%;
+    font-size: 60%;
    }
 }
 @media (max-width:1200px){
     html{
-     font-size: 59%;
+     font-size: 55%;
     }
     .book .row .image img{
         width: 100%;
